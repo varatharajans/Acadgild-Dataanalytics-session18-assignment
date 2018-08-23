@@ -1,8 +1,8 @@
 # Acadgild-Dataanalytics-session18-assignment
 DATA ANALYTICS WITH R, EXCEL AND TABLEAU SESSION 18 ASSIGNMENT 
 
-Session 18 Segmentation Analysis
-Weight Lifting Excercise
+                                               Session 18 Assignment
+                                             Weight Lifting Excercise
 
 
 
@@ -17,18 +17,7 @@ c. Apply all the model validation techniques.
 d. Make conclusions
 
 
-                                          Session 18 Assignment
-
-
-5. Problem Statement 
-1. Use the below given data set 
-DataSet 
-2. Perform the below given activities: 
-a. Create classification model using different decision trees. 
-b. Verify model goodness of fit. 
-c. Apply all the model validation techniques. 
-d. Make conclusions
-
+ 
 
 setwd("C:/Users/Seshan/Desktop/sv R related/acadgild/assignments/session 18 Assign/session18")
 library(readr)
